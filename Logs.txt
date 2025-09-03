@@ -1,6 +1,4 @@
-[2025-09-02 03:01:33] No hash database found. Run 'store' first.
-[2025-09-02 03:03:36] No hash database found. Run 'store' first.
-[2025-09-02 03:04:05] No hash database found. Run 'store' first.
-[2025-09-02 03:04:53] Failed to store hash for file1.txt
-[2025-09-02 03:04:53] Stored hash for deck.txt: ca1c3633911c17845bd8eff2eca3cba6a399e1fcc00b9f3e18248f85b7ed005f
-[2025-09-02 03:06:01] File deck.txt is intact (hash matches).
+[2025-09-04 01:53:32] Stored hash for deck.txt: e73b2c5028349ca9f015bfa3c9b9d29e4ae7c57e7ba8581884f4d0e62b585468
+[2025-09-04 01:53:32] Set Hash.txt to read-only
+[2025-09-04 01:53:46] File deck.txt is intact (hash matches).
+[2025-09-04 01:54:31] ALERT: File deck.txt has been Changed! (hash mismatch).
